@@ -12,6 +12,9 @@
     "nuxt": "^3.1.2"
   },
   "dependencies": {
-    "firebase": "^9.17.1"
+    "bcrypt": "^5.1.0",
+    "firebase": "^9.17.1",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.1"
   }
 }
